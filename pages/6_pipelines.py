@@ -37,14 +37,14 @@ st.markdown(
 # tasks
 # st.image("_src_pipelines/1.jpg")
 # st.image("https://drive.google.com/file/d/1mLEALfO1F1WMDKs0eW781tjdg-4mCY81/view?usp=share_link")
-st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/1.jpg")
+st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/1.jpg?raw=true")
 st.markdown(
     """
     ## **Running tasks**    
 """
 )
 # running tasks
-st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/2.jpg")
+st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/2.jpg?raw=true")
 
 st.markdown(
     """
@@ -52,7 +52,7 @@ st.markdown(
 """
 )
 # filter category task success job done!
-st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/5.jpg")
+st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/5.jpg?raw=true")
 
 st.markdown(
     """
@@ -60,7 +60,7 @@ st.markdown(
 """
 )
 # upload successful
-st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/3.jpg")
+st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/3.jpg?raw=true")
 
 st.markdown(
     """
@@ -68,6 +68,6 @@ st.markdown(
 """
 )
 # Bucket data
-st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/4.jpg")
+st.image("https://github.com/TeusM224/PF_Data06/blob/main/Assets/src_airflow/4.jpg?raw=true")
 
 
