@@ -8,7 +8,7 @@ st.set_page_config(
 
 st.write("# Pipeline (Airflow)")
 
-st.sidebar.success("Overview")
+#st.sidebar.success("Overview")
 
 # st.markdown(
 #     """
