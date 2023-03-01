@@ -33,7 +33,7 @@ with cj_1:
     st.subheader('Juan Camilo')
 with cj_2:
     st.write('')
-    if st.checkbox("Contact Juan"):
+    if st.checkbox("Contact Camilo"):
             st.markdown("jcamilo9219@gmail.com")
             st.subheader("Linkedin Juan Camilo")
             st.markdown("-")
